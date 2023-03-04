@@ -4,7 +4,7 @@
 
 Programmer - (specialized in backend) Realtime GameServer / EOS BlockChain / Android
 
-[![Anurag's GitHub stats](https://stats-pipe.vercel.app/api?username=nolleh&show_icons=true&theme=dark)](https://github.com/nolleh)
+[![Anurag's GitHub stats](https://stats-pipe.vercel.app/stats?username=nolleh&show_icons=true&theme=dark)](https://github.com/nolleh)
 
-[![Top Langs](https://stats-pipe.vercel.app/api/top-langs/?username=nolleh&theme=dark&exclude_repo=nolleh.github.io)](https://github.com/nolleh)
+[![Top Langs](https://stats-pipe.vercel.app/stats/top-langs/?username=nolleh&theme=dark&exclude_repo=nolleh.github.io)](https://github.com/nolleh)
 
