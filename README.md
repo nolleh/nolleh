@@ -4,11 +4,11 @@
 
 Programmer - (specialized in backend) Realtime GameServer / EOS BlockChain / Android
 
-> [!Information]  
+> [!Tip]  
 > 
 > Are you wanna know about me?
 > Check This 
-> - Page: [](https://nolleh.vercel.app)
+> - Page: [nolleh](https://nolleh.vercel.app)
 
 
 [![Anurag's GitHub stats](https://stats-pipe.vercel.app/stats?username=nolleh&show_icons=true&theme=dark)](https://github.com/nolleh)
