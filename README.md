@@ -4,6 +4,7 @@
 [![Homepage Badge](https://img.shields.io/badge/Homepage-009BD5?logo=homepage&logoColor=fff&style=flat)](https://nolleh.vercel.app)  
   
 Programmer - (specialized in backend) Realtime GameServer / EOS BlockChain / Android  
+And, Vimmer 🥰
 
 
 [![Anurag's GitHub stats](https://stats-pipe.vercel.app/stats?username=nolleh&show_icons=true&theme=dark)](https://github.com/nolleh)
